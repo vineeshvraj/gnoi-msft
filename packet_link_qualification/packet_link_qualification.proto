@@ -8,7 +8,7 @@ package gnoi.packet_link_qualification;
 import "google/protobuf/duration.proto";
 import "google/protobuf/timestamp.proto";
 import "google/rpc/status.proto";
-import "types/types.proto";
+import "github.com/openconfig/gnoi/types/types.proto";
 
 option go_package = "github.com/openconfig/gnoi/linkqual";
 
